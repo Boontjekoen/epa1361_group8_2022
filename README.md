@@ -13,6 +13,6 @@ There are also two important results folders _'FINAL_MORDM_data.gz'_ and _'resul
 ## Data 
 Finally, there is a folder _'final assignment.zip'_ this folder includes all the model data that is required to run the model and the previously mentioned Jupyter scripts. 
 
-
-
+## Unused scripts
+The folder contains the Jupyter notebook calle _'MORO'._ The intention was to use this approach. However, due to computational limitations, the focus was shifted to MORDM. 
 
