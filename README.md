@@ -1,6 +1,9 @@
 # epa1361_group8_2022
 Submission folder for EPA1361 of Group 8 - Rijkswaterstaat.
-This folder contains a Jupyter notebook _'Open Exploration'_ and a Jupyter notebook _'Final_MORDM_and_ScenarioDiscovery'_. Additionally, the folder contains the most important results as well as a folder including the required data.
+This folder contains a Jupyter notebook _'Open Exploration'_ and a Jupyter notebook _'Final_MORDM_and_ScenarioDiscovery'_. Additionally, the folder contains the most important results as well as a folder including the required data as well as the two reports.
+
+## Reports
+The folder contains the model-based report, _Report - group 8_ ,  as well as the report on the political reflection, _Political reflection - group 8.pdf_. 
 
 ## Analysis scripts
 The _'Open Exploration'_ file includes a script to explore the model. In this analysis, four scenarios are explored: a business-as-usual scenario, a scenario where only Room for the River is applied, a scenario where only dike heightening is implemented, and the final policy that resulted from the debate. 
