@@ -8,4 +8,7 @@ The 'Final_MORDM_and_ScenarioDiscovery' includes two analyises. The MORDM analys
 
 Finally, there is a folder 'final assignment' this folder includes all the model data that is required to run the model and the previously mentioned Jupyter scripts. 
 
+There is also an important results folders 'FINAL_MORDM_data.gz'. This zip folder contains the results from the re-evaluation over 1000 scenarios. 
+
+
 
