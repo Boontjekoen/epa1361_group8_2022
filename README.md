@@ -11,7 +11,7 @@ The_ 'Final_MORDM_and_ScenarioDiscovery'_ includes two analyises. The MORDM anal
 There are also two important results folders _'FINAL_MORDM_data.gz'_ and _'results_open_exporation.gz'_.  _'FINAL_MORDM_data.gz'_ contains the results from the re-evaluation over 1000 scenarios, while _'results_open_exporation.gz'_ contains the results of the open exploration.
 
 ## Data 
-Finally, there is a folder _'final assignment'_ this folder includes all the model data that is required to run the model and the previously mentioned Jupyter scripts. 
+Finally, there is a folder _'final assignment.zip'_ this folder includes all the model data that is required to run the model and the previously mentioned Jupyter scripts. 
 
 
 
